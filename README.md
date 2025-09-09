@@ -36,5 +36,3 @@ O objetivo é facilitar a **validação, configuração e atualização do trust
   - `truststore_<data>.pem` → Backup gerado com timestamp.
 
 
-Ao executar o script, é exibido o seguinte menu:
-
