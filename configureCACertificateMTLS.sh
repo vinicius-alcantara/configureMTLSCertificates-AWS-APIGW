@@ -1,7 +1,7 @@
 #!/bin/bash
 
-BUCKET_NAME_HML="flagship-mtls-certs-hml";
-BUCKET_NAME_PRD="flagship-mtls-certs-prd";
+BUCKET_NAME_HML="xpto-mtls-certs-hml";
+BUCKET_NAME_PRD="xpto-mtls-certs-prd";
 TRUSTSTORE_FILE_NAME="truststore.pem";
 DIRECTORY_CERTS=$(echo "$PWD/Certs");
 CURRENT_DATE=$(date +%d%m%Y_%H:%M);
